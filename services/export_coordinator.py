@@ -28,7 +28,7 @@ class ExportCoordinator:
                 'health_endpoint': '/health'
             },
             'styles_gallery': {
-                'url': 'http://localhost:5000',
+                'url': 'http://localhost:4090',
                 'capabilities': ['style_management', 'asset_serving', 'preview_generation'],
                 'export_formats': ['html', 'css', 'json'],
                 'health_endpoint': '/health'
