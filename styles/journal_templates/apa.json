@@ -1,0 +1,69 @@
+{
+  "name": "APA",
+  "description": "American Psychological Association style",
+  "font_family": "Times New Roman",
+  "font_size": "12pt",
+  "line_spacing": "2.0",
+  "column_count": 1,
+  "page_margins": {
+    "top": "1in",
+    "bottom": "1in",
+    "left": "1in",
+    "right": "1in"
+  },
+  "header_styles": {
+    "title": {
+      "font_size": "12pt",
+      "font_weight": "bold",
+      "alignment": "center",
+      "spacing_after": "12pt"
+    },
+    "author": {
+      "font_size": "12pt",
+      "font_weight": "normal",
+      "alignment": "center",
+      "spacing_after": "12pt"
+    },
+    "abstract": {
+      "font_size": "12pt",
+      "font_weight": "normal",
+      "alignment": "justify",
+      "spacing_after": "12pt"
+    }
+  },
+  "section_styles": {
+    "heading1": {
+      "font_size": "12pt",
+      "font_weight": "bold",
+      "alignment": "center",
+      "numbering": "none",
+      "spacing_before": "12pt",
+      "spacing_after": "12pt"
+    },
+    "heading2": {
+      "font_size": "12pt",
+      "font_weight": "bold",
+      "alignment": "left",
+      "numbering": "none",
+      "spacing_before": "12pt",
+      "spacing_after": "6pt"
+    }
+  },
+  "reference_style": {
+    "format": "apa",
+    "font_size": "12pt",
+    "hanging_indent": "0.5in"
+  },
+  "figure_caption": {
+    "prefix": "Figure",
+    "font_size": "12pt",
+    "alignment": "left",
+    "spacing_before": "6pt"
+  },
+  "table_caption": {
+    "prefix": "Table",
+    "font_size": "12pt",
+    "alignment": "left",
+    "spacing_after": "6pt"
+  }
+}

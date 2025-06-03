@@ -1,0 +1,69 @@
+{
+  "name": "IEEE",
+  "description": "Institute of Electrical and Electronics Engineers style",
+  "font_family": "Times New Roman",
+  "font_size": "10pt",
+  "line_spacing": "1.0",
+  "column_count": 2,
+  "page_margins": {
+    "top": "0.75in",
+    "bottom": "1in",
+    "left": "0.625in",
+    "right": "0.625in"
+  },
+  "header_styles": {
+    "title": {
+      "font_size": "14pt",
+      "font_weight": "bold",
+      "alignment": "center",
+      "spacing_after": "12pt"
+    },
+    "author": {
+      "font_size": "12pt",
+      "font_weight": "normal",
+      "alignment": "center",
+      "spacing_after": "6pt"
+    },
+    "abstract": {
+      "font_size": "9pt",
+      "font_weight": "bold",
+      "alignment": "justify",
+      "indent": "0.25in"
+    }
+  },
+  "section_styles": {
+    "heading1": {
+      "font_size": "10pt",
+      "font_weight": "bold",
+      "alignment": "left",
+      "numbering": "roman_upper",
+      "spacing_before": "12pt",
+      "spacing_after": "6pt"
+    },
+    "heading2": {
+      "font_size": "10pt",
+      "font_weight": "bold",
+      "alignment": "left",
+      "numbering": "alpha_upper",
+      "spacing_before": "6pt",
+      "spacing_after": "3pt"
+    }
+  },
+  "reference_style": {
+    "format": "ieee_numeric",
+    "font_size": "9pt",
+    "hanging_indent": "0.25in"
+  },
+  "figure_caption": {
+    "prefix": "Fig.",
+    "font_size": "9pt",
+    "alignment": "center",
+    "spacing_before": "6pt"
+  },
+  "table_caption": {
+    "prefix": "TABLE",
+    "font_size": "9pt",
+    "alignment": "center",
+    "spacing_after": "6pt"
+  }
+}
